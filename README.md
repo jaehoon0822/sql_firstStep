@@ -3,7 +3,7 @@
 > 한빛미디어SQL 첫걸음 정리
 >
 
-- [ ] CH4 Hello Wolrd 실행하기
+- [x] CH4 Hello Wolrd 실행하기
 - [ ] CH5 테이블구조 참조하기
 - [ ] CH6 검색조건 지정하기
 - [ ] CH7 조건 조합하기
