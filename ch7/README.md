@@ -75,7 +75,7 @@ SELECT * FROM tableName WHERE (cond OR cond) AND (cond OR cond);
 
 ```sql
 
-NOT cond;
+NOTcond;
 
 
 ```
@@ -87,7 +87,7 @@ NOT cond;
 
 ```sql
 
-SELECT * FROM tableName WHERE !(cond AND cond);
+SELECT * FROM tableName WHERE NOT(cond AND cond);
 
 ```
 
